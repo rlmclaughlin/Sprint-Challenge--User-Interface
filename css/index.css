@@ -286,10 +286,10 @@ hr {
     width: 80%; 
     border-radius: 15px; 
     justify-content: center; 
-    border: 2px solid black; 
     align-items: center;  
-    color: white;
-    background-color: rgba(0, 0, 0, 0.9); 
+    color: black;
+    padding: 15px; 
+    background-color: rgba(0, 0, 0, 0.1); 
 }
 
 
@@ -320,6 +320,3 @@ button{
     margin-bottom: 30px; 
     }
 
-input:placeholder{
-    margin: auto;   
-}
